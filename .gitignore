@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+*.npz
+yolo_weights/
+yolov8n.pt
+.vscode/
+.DS_Store
+*.log
